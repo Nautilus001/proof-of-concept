@@ -2,7 +2,7 @@
 
 This is a **Proof-of-Concept (PoC)** application built to demonstrate a fully integrated full-stack mobile architecture using **React Native (Expo)** and the **Firebase Ecosystem**. 
 
-The goal of this project was to establish the "plumbing" between a mobile frontend and a suite of serverless backend services, ensuring scalable authentication, data management, and storage.
+The goal of this project was to establish the plumbing between a mobile frontend and a suite of serverless backend services, ensuring scalable authentication, data management, and storage.
 
 ---
 
