@@ -58,10 +58,12 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 20,
     alignItems: 'center',
-    justifyContent: 'space-between', // Pushes content apart
+    backgroundColor: 'off-white',
+    justifyContent: 'space-between',
   },
   header: {
     alignItems: 'center',
+    backgroundColor: 'off-white',
     marginTop: 20,
   },
   title: {
@@ -95,6 +97,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     lineHeight: 24,
     fontFamily: 'SpaceMono', // Common in Expo starters, fallback to system
+    color: 'white',
   },
   button: {
     backgroundColor: '#2f95dc',
